@@ -35,6 +35,8 @@ Data Sets:
 The official flight database for every domestic flight in the US, using 2016 data. 
 http://www.transtats.bts.gov/
 
+This is very huge dataset with 5.5 million rows and 64 predictions.
+
 Cleaned data and R code can be found at:
 https://drive.google.com/drive/folders/1DlqE5DgZ22W4h7Ma_snJ2907otgsC_ZO?usp=sharing
 
