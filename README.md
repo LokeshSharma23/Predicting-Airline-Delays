@@ -44,6 +44,7 @@ https://drive.google.com/drive/folders/1DlqE5DgZ22W4h7Ma_snJ2907otgsC_ZO?usp=sha
 
 Softwares Used:
 R, Palmetto Cluster (Clemson University Supercomputer), Tableau and MS Excel
+Large dataset was handle by using 24 CPU's and 494 GB of memory from Clemson University's Palmetto Supercomputer.
 
 
 Model Building Steps
